@@ -1,0 +1,2 @@
+# Image-segmentation
+задача сегментации изображений с использованием модифицированной сети U-Net. Let's say that you want to know where the object is in the image, the shape of this object, which pixel belongs to any object, and so on.in this case, you will want to segment the image, i.e. Each pixel of the image is given a label. Thus, the task of image segmentation is to train the neural network to output the pixel mask of the image. This helps in understanding the image at a much lower level, that is, at the pixel level.
